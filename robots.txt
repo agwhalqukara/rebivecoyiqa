@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rebivecoyiqa.pages.dev/sitemap.xml
